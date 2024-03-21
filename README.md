@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayodeji Yusuf Oyebode</h1>
-<h3 align="center">Mobile Developer (React Native + Flutter)</h3>
+<h3 align="center">Mobile Developer (React Native, Flutter)</h3>
 <h3 align="center">📫 heryordejy.dev@gmail.com || +2348145084929</h3>
 <br>
 <h3 align="center">🌱 Working with React Native & Learning Flutter & SwiftUI </h3>
