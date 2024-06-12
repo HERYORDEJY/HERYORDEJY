@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayodeji Yusuf Oyebode</h1>
-<h3 align="center">Mobile Developer (React Native, Flutter)</h3>
+<h3 align="center">Mobile Developer (React Native)</h3>
 <h3 align="center">📫 heryordejy.dev@gmail.com || +2348145084929</h3>
 <br>
-<h3 align="center">🌱 Working with React Native & Learning Flutter & SwiftUI </h3>
+<h3 align="center">🌱 Working with React Native & Learning Swif/SwiftUI + Android (Compose) </h3>
 <h3 align="center">💞️ Available to work on Mobile Application Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HERYORDEJY&label=Profile%20views&color=0e75b6&style=flat" alt="HERYORDEJY" /> </p>
